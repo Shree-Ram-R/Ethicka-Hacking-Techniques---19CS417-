@@ -73,12 +73,13 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### Server side:
-![client](https://github.com/Shree-Ram-R/Ethicka-Hacking-Techniques---19CS417-/assets/121288490/c167a5e2-075d-4c8d-b5c9-6cecbbc50512)
+![server](https://github.com/Shree-Ram-R/Ethicka-Hacking-Techniques---19CS417-/assets/121288490/38fbfe0e-9163-4d8f-9280-57f9458b4a66)
+
 
 
 
 ### Client side:
-![server](https://github.com/Shree-Ram-R/Ethicka-Hacking-Techniques---19CS417-/assets/121288490/d6767b96-12d5-40ec-9666-343b55f81908)
+![client](https://github.com/Shree-Ram-R/Ethicka-Hacking-Techniques---19CS417-/assets/121288490/83dd77b7-bdb5-40d9-a04d-00d5b1e0613a)
 
 ## Result:
 The program is executed successfully
