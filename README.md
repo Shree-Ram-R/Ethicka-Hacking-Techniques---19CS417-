@@ -1,12 +1,12 @@
 # EXP.NO:1
 # DATE:
-Echo server and client using python socket
+# Echo server and client using python socket
 
 # AIM:
 
 To develop a simple webserver to serve html programming pages.
 
-## DESIGN STEPS:
+# ALGORITHM:
 
 ### Step 1:
 
