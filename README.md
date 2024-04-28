@@ -1,6 +1,5 @@
-# Ethicka-Hacking-Techniques---19CS417-
-Ethicka Hacking Techniques - 19CS417 
-# Echoserver
+# EXP.NO:1
+# DATE:
 Echo server and client using python socket
 
 # AIM:
