@@ -1,5 +1,5 @@
-# EXP.NO:1
-# DATE:
+# EXP.NO:01
+# DATE:17-02-2024
 # Echo server and client using python socket
 
 # AIM:
